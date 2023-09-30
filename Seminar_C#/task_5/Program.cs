@@ -18,6 +18,6 @@ int firstNum = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число: ");
 int secondNum = Convert.ToInt32(Console.ReadLine());
 
-bool result = IsSquareToNumbers(firstNum, secondNum);
+bool result = IsSquareTwoNumbers(firstNum, secondNum);
 Console.WriteLine(result ? $"{firstNum}, {secondNum} -> Да" : $"{firstNum}, {secondNum} -> Нет");
 
