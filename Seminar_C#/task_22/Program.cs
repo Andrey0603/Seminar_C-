@@ -20,3 +20,32 @@ int DecimalToBinary(int num)
     }
     return result;
 }
+
+// Console.Write("Can you enter number:");
+// int number = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine(DecimalToBinary(number));
+// Console.WriteLine(DecimalToBinaryStr(number));
+
+// int DecimalToBinary(int num)
+// {
+//     int result = 0;
+//     int mult = 1;
+//     while (num > 0)
+//     {
+//         result += num % 2 * mult;
+//         num = num / 2;// num /= 2 //
+//         mult *= 10;
+//     }
+//     return result;
+// }
+
+// string DecimalToBinaryStr(int num)
+// {
+//     string result = string.Empty;
+//     while (num > 0)
+//     {
+//         result = num % 2 + result;
+//         num = num / 2;// num /= 2 //
+//     }
+//     return result;
+// }
