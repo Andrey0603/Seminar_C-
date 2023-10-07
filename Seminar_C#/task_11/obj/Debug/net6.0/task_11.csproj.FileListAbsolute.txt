@@ -1,0 +1,15 @@
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\obj\Debug\net6.0\task_11.csproj.AssemblyReference.cache
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\obj\Debug\net6.0\task_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\obj\Debug\net6.0\task_11.AssemblyInfoInputs.cache
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\obj\Debug\net6.0\task_11.AssemblyInfo.cs
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\obj\Debug\net6.0\task_11.csproj.CoreCompileInputs.cache
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\bin\Debug\net6.0\task_11.exe
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\bin\Debug\net6.0\task_11.deps.json
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\bin\Debug\net6.0\task_11.runtimeconfig.json
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\bin\Debug\net6.0\task_11.dll
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\bin\Debug\net6.0\task_11.pdb
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\obj\Debug\net6.0\task_11.dll
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\obj\Debug\net6.0\refint\task_11.dll
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\obj\Debug\net6.0\task_11.pdb
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\obj\Debug\net6.0\task_11.genruntimeconfig.cache
+D:\Учеба\Seminar_C#\Seminar_C#\task_11\obj\Debug\net6.0\ref\task_11.dll
