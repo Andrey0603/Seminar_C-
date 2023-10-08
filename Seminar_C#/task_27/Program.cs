@@ -38,4 +38,20 @@ void ReplaceCurrentElementsOnSquareVer2(int[,] matrix)
         }
     }
 }
+nt[,] array2d = CreateMatrixRndInt(5, 5, -10, 10);
+PrintMatrix(array2d);
+
+Console.WriteLine();
+Console.WriteLine("-------------------");
+Console.WriteLine();
+
+ReplaceCurrentElementsOnSquare(array2d);
+PrintMatrix(array2d);
+
+Console.WriteLine();
+Console.WriteLine("-------------------");
+Console.WriteLine();
+
+ReplaceCurrentElementsOnSquareVer2(array2d);
+PrintMatrix(array2d);
 // только решение, добавить из пред задачи
